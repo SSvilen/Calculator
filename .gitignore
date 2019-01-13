@@ -1,11 +1,2 @@
-obj/Debug/netcoreapp2.1/Calculator.dll
-obj/Debug/netcoreapp2.1/Calculator.pdb
-bin/Debug/netcoreapp2.1/Calculator.runtimeconfig.json
-bin/Debug/netcoreapp2.1/Calculator.deps.json
-bin/Debug/netcoreapp2.1/Calculator.runtimeconfig.dev.json
-bin/Debug/netcoreapp2.1/Calculator.runtimeconfig.json
-bin/Debug/netcoreapp2.1/Calculator.dll
-bin/Debug/netcoreapp2.1/Calculator.pdb
-obj/Debug/netcoreapp2.1/Calculator.assets.cache
-obj/Debug/netcoreapp2.1/Calculator.csproj.CoreCompileInputs.cache
-obj/Debug/netcoreapp2.1/Calculator.csproj.FileListAbsolute.txt
+obj/
+bin/
