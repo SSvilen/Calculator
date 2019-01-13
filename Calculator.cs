@@ -6,7 +6,7 @@ namespace Math {
             foreach (string arg in args) {
                 sum += Int32.Parse(arg) ;
             }
-            Console.WriteLine("Result is: " + sum1);
+            Console.WriteLine("Result is: " + sum);
         }
     }
 }
