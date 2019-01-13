@@ -1,10 +1,10 @@
 ﻿using System;
 namespace Math {
     class Addition {
-        public void Main(string[] args) {
-            int sum;
+        public static void Main(string[] args) {
+            int sum =0;
             foreach (string arg in args) {
-                sum += (int)arg;
+                sum += Int32.Parse(arg) ;
             }
             Console.WriteLine("Result is: " + sum);
         }
